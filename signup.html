@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Game Anywhere - Sign Up</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="auth-card">
+        <!-- Header -->
+        <div class="header">
+          <div class="logo">
+            <i class="fas fa-gamepad"></i>
+            <span>Game<br />Anywhere</span>
+          </div>
+          <div class="nav-tabs">
+            <a href="index.html" class="tab">HOME</a>
+            <a href="signup.html" class="tab active">JOIN</a>
+          </div>
+          <div class="language">
+            <span>🌐 EN</span>
+          </div>
+        </div>
+
+        <!-- Content -->
+        <div class="content">
+          <div class="form-section">
+            <div class="form-header">
+              <p class="start-text">START FOR FREE</p>
+              <h1>CREATE NEW ACCOUNT</h1>
+              <p class="sub-text">
+                Already A Member? <a href="login.html">Sign In Here</a>
+              </p>
+            </div>
+
+            <form id="signupForm" class="auth-form">
+              <div class="input-row">
+                <div class="input-group">
+                  <input
+                    type="text"
+                    id="firstName"
+                    placeholder="First name"
+                    required
+                  />
+                  <i class="fas fa-user"></i>
+                </div>
+                <div class="input-group">
+                  <input
+                    type="text"
+                    id="lastName"
+                    placeholder="Last name"
+                    required
+                  />
+                  <i class="fas fa-user"></i>
+                </div>
+              </div>
+
+              <div class="input-group">
+                <input
+                  type="text"
+                  id="username"
+                  placeholder="Username"
+                  required
+                />
+                <i class="fas fa-at"></i>
+              </div>
+
+              <div class="input-group">
+                <input type="email" id="email" placeholder="Email" required />
+                <i class="fas fa-envelope"></i>
+              </div>
+
+              <div class="input-group">
+                <input
+                  type="password"
+                  id="password"
+                  placeholder="Password"
+                  required
+                />
+                <i class="fas fa-lock"></i>
+                <button type="button" class="toggle-password">
+                  <i class="fas fa-eye"></i>
+                </button>
+              </div>
+
+              <button type="submit" class="btn btn-primary">
+                CREATE ACCOUNT
+              </button>
+            </form>
+
+            <!-- Social Icons -->
+            <div class="social-icons">
+              <a href="#"><i class="fab fa-discord"></i></a>
+              <a href="#"><i class="fab fa-twitch"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook"></i></a>
+            </div>
+          </div>
+
+          <!-- Character Section -->
+          <div class="character-section">
+            <div class="character-bg">
+              <div class="character">
+                <div class="character-avatar">
+                  <i class="fas fa-user-ninja"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
