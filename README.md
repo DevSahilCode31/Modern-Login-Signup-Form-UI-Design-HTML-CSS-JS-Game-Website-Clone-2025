@@ -35,7 +35,7 @@ Modern-Login-Signup-Form-UI-Design-HTML-CSS-JS-Game-Website-Clone-2025/
 ## 📥 How to Use
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/yourusername/your-repo-name.git](https://github.com/DevSahilCode31/Modern-Login-Signup-Form-UI-Design-HTML-CSS-JS-Game-Website-Clone-2025
 Open index.html in your browser.
 
 Customize the design and integrate with backend as needed.
@@ -48,8 +48,7 @@ This project is licensed under the MIT License.
 
 Don't forget to star ⭐ the repo if you find it helpful!
 
-
 Let me know if you'd like to include:
-- **Live demo link (if hosted)**
-- **Your name or GitHub profile**
-- **Project tags** (for GitHub topics)
+- **Live demo link (https://github.com/DevSahilCode31)**
+  
+#LoginUI #SignupForm #WebDesign #HTMLCSSJS #FrontendDevelopment
