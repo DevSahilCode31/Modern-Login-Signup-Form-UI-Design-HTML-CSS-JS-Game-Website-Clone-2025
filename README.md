@@ -49,6 +49,6 @@ This project is licensed under the MIT License.
 Don't forget to star ⭐ the repo if you find it helpful!
 
 Let me know if you'd like to include:
-- **Live demo link (https://light-dark-login-signup-ui.netlify.app/)**
+- **Live demo link (https://modern-login-signup-form-ui-design.netlify.app/)**
   
 #LoginUI #SignupForm #WebDesign #HTMLCSSJS #FrontendDevelopment
